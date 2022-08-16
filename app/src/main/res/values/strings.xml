@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies TMDB Compose</string>
+    <string name="no_movies">No Movies Available</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="ui">UI</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_def_value">1</string>
+</resources>
